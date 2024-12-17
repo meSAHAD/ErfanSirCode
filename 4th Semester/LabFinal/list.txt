@@ -1,0 +1,32 @@
+### Sorting Algorithms:
+1. bubble.c
+2. counting.c
+3. insertion.c
+4. selection.c
+5. shell.c
+6. merge.c
+
+### Shortest Path Algorithms:
+1. bellman_ford.c
+2. dijkstra.c
+3. ford_fulkerson.c
+
+### Graph Algorithms (MST, Connectivity, Matching):
+1. kruskalMST.c
+2. kruskals.c
+3. primMST.c
+4. stronglyConn.c
+5. topological.c
+6. hungarianForBipartiteMatching.c
+7. naiveAlgoForSortingMatching.c
+
+### String Matching Algorithms:
+1. rabinKarp.c
+2. jhonsons.c
+
+### Miscellaneous:
+1. bfs.c
+2. dfs.c
+3. edmonds_karp_minFlow.c
+4. heap.c
+5. kmp.c
